@@ -13,13 +13,16 @@
   ## Description 
   This PWA is a text editor that runs in a web browser and can be installed and used offline. 
 
-  ![Screenshot](./assets/images/mangoes-and-mongeese.png)
+  ![Screenshot](./client/src/images/jate.png)
 
-  [Click here to view the demo video](https://drive.google.com/file/d/1rcHe9Mu5rWNNUQhuwJBDtHPn1AbcWa4I/view)
+  [Click here to visit the deployed link](https://opensource.org/licenses/MIT)
 
   ## Installation
+  Visit the app [here](https://drive.google.com/file/d/1rcHe9Mu5rWNNUQhuwJBDtHPn1AbcWa4I/view) and click install
+
 
   ## Usage
+  Install and use offline like any other text editor.
 
   ## License
   This project uses MIT
@@ -32,6 +35,7 @@
   Contact me
 
   ## Tests
+  N/A
 
   ## Questions
   - Author: Stevie Miller
