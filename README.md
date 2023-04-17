@@ -15,10 +15,10 @@
 
   ![Screenshot](./client/src/images/jate.png)
 
-  [Click here to visit the deployed link](https://opensource.org/licenses/MIT)
+  [Click here to visit the deployed link](https://stormy-hollows-26876.herokuapp.com/)
 
   ## Installation
-  Visit the app [here](https://drive.google.com/file/d/1rcHe9Mu5rWNNUQhuwJBDtHPn1AbcWa4I/view) and click install
+  Visit the app [here](https://stormy-hollows-26876.herokuapp.com/) and click install
 
 
   ## Usage
